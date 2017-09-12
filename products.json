@@ -1,4 +1,4 @@
-[
+products = '[
   {
     "category":"tShirt",
     "size":["s", "m", "xl"],
@@ -44,6 +44,4 @@
     "url":"http://bigbomb.com.ua/wp-content/uploads/2015/03/061036030_1.jpg",
     "imgs":""
   }
-]
-
-
+]';

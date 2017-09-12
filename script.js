@@ -1,4 +1,4 @@
 "use strict";
 
-//var file = "products.json";
-var mydata = JSON.parse("products");
+
+var mydata = JSON.parse(products);
