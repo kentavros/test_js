@@ -1,0 +1,49 @@
+[
+  {
+    "category":"tShirt",
+    "size":["s", "m", "xl"],
+    "color":"black",
+    "description":"black T-shirt",
+    "priсe":"35.45",
+    "url":"http://prostomayki.com.ua/components/com_virtuemart/shop_image/product/Mugskaya_chernaya__futbolka_51cb683d0b5d2.png",
+    "imgs":""
+  },
+  {
+    "category":"cap",
+    "size":["s", "xl"],
+    "color":"red",
+    "description":"Nike Cap",
+    "priсe":"11.25",
+    "url":"http://fankyshop.net/imgs/Kepka_Nike_Snapback_47K_b13949.jpg",
+    "imgs":""
+  },
+  {
+    "category":"sweater",
+    "size":["s", "m", "xl"],
+    "color":"black",
+    "description":"Black sweater",
+    "priсe":"25.16",
+    "url":"http://footbolka.ru/images/StreychLongSleeve.jpg",
+    "imgs":""
+  },
+  {
+    "category":"cap",
+    "size":["s", "m"],
+    "color":"black",
+    "description":"ECCO Cap",
+    "priсe":"10.44",
+    "url":"http://www.ecco-shoes.ru/images/eshop/img/jpg/225x225/9000403_00.jpg",
+    "imgs":""
+  },
+  {
+    "category":"tShirt",
+    "size":["s", "m", "xl"],
+    "color":"white",
+    "description":"white T-shirt",
+    "priсe":"35.15",
+    "url":"http://bigbomb.com.ua/wp-content/uploads/2015/03/061036030_1.jpg",
+    "imgs":""
+  }
+]
+
+
